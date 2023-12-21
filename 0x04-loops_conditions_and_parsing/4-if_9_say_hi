@@ -1,15 +1,15 @@
 #!/usr/bin/env bash
-# a Bash that displays best school 10 times,  but for the 9th iteration, displays Best School and then Hi on a new line
+#Displays "Best School" 10 times using while loop.
+#   Displays "Hi" before "Best School" on the 9th interation.
 
-count=1
+count=0
 
-while [ $count -le 10 ]
+while [ $count -lt 10 ]
 do
-	if [ $count -eq 9 ]
-	then
-		echo "Hi"
-	else
-		echo "Best School"
-	fi
-	((count++ ))
+  if [ $count -eq 9 ]
+  then
+    echo "Hi"
+  fi
+  echo "Best School"
+  (( count++ ))
 done
