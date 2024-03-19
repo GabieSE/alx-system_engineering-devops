@@ -1,5 +1,7 @@
 #!/usr/bin/env bash
-# Generates a compressed archive of a MySQL dump
+# backup and compress my databases
+
+# variables
 day=$(date +"%d")
 month=$(date +"%m")
 year=$(date +"%Y")
