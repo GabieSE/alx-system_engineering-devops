@@ -1,4 +1,4 @@
-ssue Summary:
+Issue Summary:
 
 Duration of the outage: The outage felt like an eternity, lasting approximately 2 hours, from 9:00 AM to 11:00 AM (UTC). It was like being stuck in a never-ending meeting with no coffee break in sight!
 Impact: The primary service affected was our beloved task management system, turning it into a virtual ghost town where tasks were as elusive as a unicorn. Users experienced frustration levels soaring higher than Elon Musk's latest rocket launch. Approximately 50% of users were left wandering in the digital wilderness, unable to access or update tasks.
